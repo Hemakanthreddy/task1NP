@@ -17,9 +17,9 @@ The **Naye Pankh Foundation** is dedicated to empowering underprivileged communi
 
 ## 🛠️ Technologies Used
 
-* **HTML5:** Structured semantic markup for accessibility and SEO.
+* **HTML5:** Structured semantic markup for accessibility.
 * **CSS3:** Custom styling, layout design (Flexbox/Grid), and interactive hover effects.
-* **JavaScript (Optional/If applicable):** Light scripting for responsive navigation menus or interactive elements.
+* **JavaScript :** Light scripting for responsive navigation.
 
 ---
 
