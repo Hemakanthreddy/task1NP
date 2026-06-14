@@ -29,7 +29,7 @@ The **Naye Pankh Foundation** is dedicated to empowering underprivileged communi
 task1NP/
 │
 ├── NP/                      # Main folder containing assets and pages
-│   ├── index.html           # Main Landing Page / Homepage
+│   ├── index.html           # Homepage
 │   ├── css/                 # Stylesheets
 │   │   └── style.css
 │   └── images/              # Project images, icons, and logo assets
