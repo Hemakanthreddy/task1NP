@@ -2,7 +2,7 @@
 
 A clean, responsive, and modern front-end implementation for the **Naye Pankh Foundation** website. This project was developed as a front-end development task to showcase the foundation's core vision, initiatives, and avenues for community support.
 
----
+
 
 ## 🚀 Project Overview
 
